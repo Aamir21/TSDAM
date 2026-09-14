@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import gdown
-from tensorflow.python.keras.utils.generic_utils import to_list
+#from tensorflow.python.keras.utils.generic_utils import to_list
 
 st.set_page_config(page_title="23O0513-Time Series Data Analysis and Modelling ", layout="wide")
 st.title("Attendance Record")
